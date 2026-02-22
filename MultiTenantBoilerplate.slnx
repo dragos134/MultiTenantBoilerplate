@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MultiTenantBoilerplate.Api/MultiTenantBoilerplate.Api.csproj" />
+  <Project Path="MultiTenantBoilerplate.AppHost/MultiTenantBoilerplate.AppHost.csproj" />
+  <Project Path="MultiTenantBoilerplate.ServiceDefaults/MultiTenantBoilerplate.ServiceDefaults.csproj" />
+</Solution>
